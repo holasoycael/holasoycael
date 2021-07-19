@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/S2hCGy9.png" align="right" />
+<img src="https://i.imgur.com/9w8DWIq.png" align="right" />
 
 ## Olá, Eu sou Natanael 👋
 💻 Sou programador Full Stack JavaScript.
@@ -14,10 +14,10 @@ e um dia trabalhar na área me tornando um programar de alto nível.
 
 
 <p align="left">
-  <img src="https://imgur.com/Pfa0Ceh.png" width="32">   
-  <img src="https://github.com/GuilleAngulo/guilleangulo/blob/master/nodejs.png" width="32">   
-  <img src="https://github.com/GuilleAngulo/guilleangulo/blob/master/reactjs.png" width="32">   
-  <img src="https://github.com/GuilleAngulo/guilleangulo/blob/master/nextjs.png" width="32">
+  <img src="https://i.imgur.com/kKYysyr.png" width="32">   
+  <img src="https://i.imgur.com/FEKMOr6.png" width="32">   
+  <img src="https://i.imgur.com/3UBzZzS.png" width="32">   
+  <img src="https://i.imgur.com/cJwPbV4.png" width="32">
 </p>
 
 <!---
