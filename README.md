@@ -9,7 +9,7 @@ e um dia trabalhar na área me tornando um programar de alto nível.
 
 📱┊Última aplicação\
 `Serviço delivery completo para restaurantes`\
-“Este tem sido por hora meu maior e melhor projeto, onde desenvolvi completamente sozinho e adquiri enorme conhecimento e apliquei todo meu aprendizado. Estou tocando o projeto em meu tempo livre com novos conhecimento e tecnologias.”\
+“Este tem sido por hora meu maior e melhor projeto, onde desenvolvi completamente sozinho e adquiri enorme conhecimento e apliquei todo meu aprendizado. Estou tocando o projeto em meu tempo livre com novos conhecimentos e tecnologias.”\
 𝑼𝑹𝑳: [https://delivery.bracael.com/p/demo.html](https://delivery.bracael.com/p/demo.html)
 
 
