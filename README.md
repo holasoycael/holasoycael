@@ -3,9 +3,7 @@
 ## Olá, Eu sou Natanael 👋
 💻 Sou programador Full Stack JavaScript.
 
-### Em busca de ser um programador de alto nível 👨‍💻
-Desde 2009 tocando programação por _hobbie_, em 2019 decidi levar programação a sério\
-e atualmente trabalhando e sempre aprendendo mais.
+Como programador Full Stack nos últimos anos tenho desenvolvido aplicações completas tocando todas as camadas desde o Front-End ao Back-End trabalhando com muitas ferramentas e aqui no Github tenho meus projetos mais diversos.
 
 📱┊Aplicação Delivery\
 `Serviço delivery completo para restaurantes`\
