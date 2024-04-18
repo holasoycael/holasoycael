@@ -1,15 +1,10 @@
 <img src="https://i.imgur.com/9w8DWIq.png" align="right" />
 
-## Olá, Eu sou Natanael 👋
-💻 Sou programador Full Stack JavaScript.
+<b>Hi! I am Natanael 👋🏻</b>
 
-Como programador Full Stack nos últimos anos tenho desenvolvido aplicações completas tocando todas as camadas desde o Front-End ao Back-End trabalhando com muitas ferramentas e aqui no Github tenho meus projetos mais diversos.
+IT professional specialized in backend development, with emphasis on Content Delivery Networks (CDN), serverless architectures (AWS and Google Cloud), and API integration. I have solid experience in databases, process automation, bot integration, web scraping, and real-time feature implementation. Additionally, I have skills in UI/UX on the frontend, system security, and technical documentation. Proficient in CI/CD practices and deployment automation, with a focus on efficiency, security, and quality.
 
-📱┊Aplicação Delivery\
-`Serviço delivery completo para restaurantes`\
-“Este tem sido por hora meu maior e melhor projeto, onde desenvolvi completamente sozinho e adquiri enorme conhecimento e apliquei todo meu aprendizado. Estou tocando o projeto em meu tempo livre com novos conhecimentos e tecnologias.”\
-𝑼𝑹𝑳: [https://delivery.bracael.com/p/demo.html](https://delivery.bracael.com/p/demo.html)
-
+<br/>
 
 <p align="left">
   <img src="https://i.imgur.com/kKYysyr.png" width="32">   
